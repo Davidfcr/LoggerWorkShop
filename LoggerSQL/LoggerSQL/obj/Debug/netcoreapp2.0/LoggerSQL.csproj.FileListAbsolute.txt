@@ -1,0 +1,11 @@
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\bin\Debug\netcoreapp2.0\LoggerSQL.deps.json
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\bin\Debug\netcoreapp2.0\LoggerSQL.runtimeconfig.json
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\bin\Debug\netcoreapp2.0\LoggerSQL.runtimeconfig.dev.json
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\bin\Debug\netcoreapp2.0\LoggerSQL.dll
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\obj\Debug\netcoreapp2.0\LoggerSQL.csprojAssemblyReference.cache
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\obj\Debug\netcoreapp2.0\LoggerSQL.csproj.CoreCompileInputs.cache
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\obj\Debug\netcoreapp2.0\LoggerSQL.AssemblyInfoInputs.cache
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\obj\Debug\netcoreapp2.0\LoggerSQL.AssemblyInfo.cs
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\bin\Debug\netcoreapp2.0\LoggerSQL.pdb
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\obj\Debug\netcoreapp2.0\LoggerSQL.dll
+C:\Backend Board\Season 2 David Cardenas\LoggerSQL\LoggerSQL\LoggerSQL\obj\Debug\netcoreapp2.0\LoggerSQL.pdb

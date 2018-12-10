@@ -1,0 +1,11 @@
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\bin\Debug\netcoreapp2.0\LoggerElasticSearch.deps.json
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\bin\Debug\netcoreapp2.0\LoggerElasticSearch.runtimeconfig.json
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\bin\Debug\netcoreapp2.0\LoggerElasticSearch.runtimeconfig.dev.json
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\bin\Debug\netcoreapp2.0\LoggerElasticSearch.dll
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\bin\Debug\netcoreapp2.0\LoggerElasticSearch.pdb
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\obj\Debug\netcoreapp2.0\LoggerElasticSearch.csprojAssemblyReference.cache
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\obj\Debug\netcoreapp2.0\LoggerElasticSearch.csproj.CoreCompileInputs.cache
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\obj\Debug\netcoreapp2.0\LoggerElasticSearch.AssemblyInfoInputs.cache
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\obj\Debug\netcoreapp2.0\LoggerElasticSearch.AssemblyInfo.cs
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\obj\Debug\netcoreapp2.0\LoggerElasticSearch.dll
+C:\Backend Board\Season 2 David Cardenas\LoggerElasticSearch\LoggerElasticSearch\obj\Debug\netcoreapp2.0\LoggerElasticSearch.pdb
