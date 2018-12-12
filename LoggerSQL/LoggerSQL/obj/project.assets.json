@@ -13931,11 +13931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Backend Board\\Season 2 David Cardenas\\LoggerSQL\\LoggerSQL\\LoggerSQL.csproj",
+      "projectUniqueName": "C:\\LoggerWorkshop\\LoggerSQL\\LoggerSQL\\LoggerSQL.csproj",
       "projectName": "LoggerSQL",
-      "projectPath": "C:\\Backend Board\\Season 2 David Cardenas\\LoggerSQL\\LoggerSQL\\LoggerSQL.csproj",
+      "projectPath": "C:\\LoggerWorkshop\\LoggerSQL\\LoggerSQL\\LoggerSQL.csproj",
       "packagesPath": "C:\\Users\\dcardenas\\.nuget\\packages\\",
-      "outputPath": "C:\\Backend Board\\Season 2 David Cardenas\\LoggerSQL\\LoggerSQL\\obj\\",
+      "outputPath": "C:\\LoggerWorkshop\\LoggerSQL\\LoggerSQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
