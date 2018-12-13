@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "b8fd5671bede4a4a3569dc25ae15016877efbad6"
+    "signature": "fe38921b730ff3e244294f761e537fe6d5b2f097"
   },
   "compilationOptions": {
     "defines": [
@@ -27,7 +27,6 @@
           "Microsoft.AspNetCore.All": "2.0.9",
           "Microsoft.NETCore.App": "2.0.0",
           "Serilog.AspNetCore": "2.1.1",
-          "Serilog.Extensions.Logging": "2.0.2",
           "Serilog.Sinks.Elasticsearch": "6.5.0"
         },
         "runtime": {
@@ -3079,7 +3078,7 @@
           "Microsoft.Extensions.DependencyInjection": "2.0.0",
           "Microsoft.Extensions.Logging": "2.0.2",
           "Serilog": "2.6.0",
-          "Serilog.Extensions.Logging": "2.0.2"
+          "Serilog.Extensions.Logging": "2.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/Serilog.AspNetCore.dll": {
@@ -3091,7 +3090,7 @@
           "lib/netstandard2.0/Serilog.AspNetCore.dll": {}
         }
       },
-      "Serilog.Extensions.Logging/2.0.2": {
+      "Serilog.Extensions.Logging/2.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Logging": "2.0.2",
           "Serilog": "2.6.0"
@@ -3099,7 +3098,7 @@
         "runtime": {
           "lib/netstandard2.0/Serilog.Extensions.Logging.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.2.0"
+            "fileVersion": "2.0.0.0"
           }
         },
         "compile": {
@@ -5986,12 +5985,12 @@
       "path": "serilog.aspnetcore/2.1.1",
       "hashPath": "serilog.aspnetcore.2.1.1.nupkg.sha512"
     },
-    "Serilog.Extensions.Logging/2.0.2": {
+    "Serilog.Extensions.Logging/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6zGo0AmWHWVICQ49DiODo9qboYKTqpg9osNWS0TBdRk/Af8HDgWsK+rYfl7TuNyzRgVhFZMbBElqjPyBQ2AQLg==",
-      "path": "serilog.extensions.logging/2.0.2",
-      "hashPath": "serilog.extensions.logging.2.0.2.nupkg.sha512"
+      "sha512": "sha512-JAh1vHmbiwDAjA9VmUQjAXvlGm+vDv8usarajlkx7Arm6Zai+CPY4naE4N9M3Eh520wY5GmIWpM+7zmfMbdTOw==",
+      "path": "serilog.extensions.logging/2.0.0",
+      "hashPath": "serilog.extensions.logging.2.0.0.nupkg.sha512"
     },
     "Serilog.Sinks.Elasticsearch/6.5.0": {
       "type": "package",

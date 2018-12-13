@@ -1658,7 +1658,7 @@
           "lib/netstandard2.0/Microsoft.Data.Sqlite.dll": {}
         }
       },
-      "Microsoft.DotNet.PlatformAbstractions/2.0.3": {
+      "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
         "type": "package",
         "dependencies": {
           "System.AppContext": "4.1.0",
@@ -1998,10 +1998,10 @@
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
-      "Microsoft.Extensions.DependencyModel/2.0.3": {
+      "Microsoft.Extensions.DependencyModel/2.0.4": {
         "type": "package",
         "dependencies": {
-          "Microsoft.DotNet.PlatformAbstractions": "2.0.3",
+          "Microsoft.DotNet.PlatformAbstractions": "2.0.4",
           "Newtonsoft.Json": "9.0.1",
           "System.Diagnostics.Debug": "4.0.11",
           "System.Dynamic.Runtime": "4.0.11",
@@ -3033,7 +3033,7 @@
           "lib/netstandard2.0/Serilog.AspNetCore.dll": {}
         }
       },
-      "Serilog.Extensions.Logging/2.0.2": {
+      "Serilog.Extensions.Logging/2.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Logging": "2.0.0",
@@ -3044,6 +3044,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Serilog.Extensions.Logging.dll": {}
+        }
+      },
+      "Serilog.Settings.Configuration/3.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyModel": "2.0.4",
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "2.0.0",
+          "Serilog": "2.6.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Serilog.Settings.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Serilog.Settings.Configuration.dll": {}
         }
       },
       "Serilog.Sinks.Elasticsearch/6.5.0": {
@@ -6396,10 +6410,10 @@
         "microsoft.data.sqlite.core.nuspec"
       ]
     },
-    "Microsoft.DotNet.PlatformAbstractions/2.0.3": {
-      "sha512": "Yi7UdOyKM4iP25nJrkSsge1zZ4FFPHGeOP1LbVdXAHo8KDaFA1SeLp045Z3b+B9QseLf/ABgZldMEUeaJ+NkjQ==",
+    "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
+      "sha512": "2HjSGp63VCLQaeGadrLYR868g25mJHr+TFF81yWCaClzjUbU2vNDx6km7SUgPnoLVksE/1e7in88eh+oPtc4aQ==",
       "type": "package",
-      "path": "microsoft.dotnet.platformabstractions/2.0.3",
+      "path": "microsoft.dotnet.platformabstractions/2.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6407,7 +6421,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net45/Microsoft.DotNet.PlatformAbstractions.dll",
         "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll",
-        "microsoft.dotnet.platformabstractions.2.0.3.nupkg.sha512",
+        "microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",
         "microsoft.dotnet.platformabstractions.nuspec"
       ]
     },
@@ -6750,10 +6764,10 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
-    "Microsoft.Extensions.DependencyModel/2.0.3": {
-      "sha512": "3MdxcEH7P0RJ5BBvpixp9YuUVH0cmpiyOKVlMvVLHVh98ziipDbTA80AQk76vEdc2WsV3tgAgKV5fMFJj1Stcw==",
+    "Microsoft.Extensions.DependencyModel/2.0.4": {
+      "sha512": "jnHAeijsfJFQXdXmnYK/NhQIkgBUeth//RZZkf0ldIKC+jARbf7YxbA9uTrs/EPhuQxHXaDxVuMyscgmL+UqfA==",
       "type": "package",
-      "path": "microsoft.extensions.dependencymodel/2.0.3",
+      "path": "microsoft.extensions.dependencymodel/2.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6762,7 +6776,7 @@
         "lib/net451/Microsoft.Extensions.DependencyModel.dll",
         "lib/netstandard1.3/Microsoft.Extensions.DependencyModel.dll",
         "lib/netstandard1.6/Microsoft.Extensions.DependencyModel.dll",
-        "microsoft.extensions.dependencymodel.2.0.3.nupkg.sha512",
+        "microsoft.extensions.dependencymodel.2.0.4.nupkg.sha512",
         "microsoft.extensions.dependencymodel.nuspec"
       ]
     },
@@ -8383,13 +8397,12 @@
         "serilog.aspnetcore.nuspec"
       ]
     },
-    "Serilog.Extensions.Logging/2.0.2": {
-      "sha512": "6zGo0AmWHWVICQ49DiODo9qboYKTqpg9osNWS0TBdRk/Af8HDgWsK+rYfl7TuNyzRgVhFZMbBElqjPyBQ2AQLg==",
+    "Serilog.Extensions.Logging/2.0.0": {
+      "sha512": "JAh1vHmbiwDAjA9VmUQjAXvlGm+vDv8usarajlkx7Arm6Zai+CPY4naE4N9M3Eh520wY5GmIWpM+7zmfMbdTOw==",
       "type": "package",
-      "path": "serilog.extensions.logging/2.0.2",
+      "path": "serilog.extensions.logging/2.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/net45/Serilog.Extensions.Logging.dll",
         "lib/net45/Serilog.Extensions.Logging.xml",
         "lib/net46/Serilog.Extensions.Logging.dll",
@@ -8400,8 +8413,25 @@
         "lib/netstandard1.3/Serilog.Extensions.Logging.xml",
         "lib/netstandard2.0/Serilog.Extensions.Logging.dll",
         "lib/netstandard2.0/Serilog.Extensions.Logging.xml",
-        "serilog.extensions.logging.2.0.2.nupkg.sha512",
+        "serilog.extensions.logging.2.0.0.nupkg.sha512",
         "serilog.extensions.logging.nuspec"
+      ]
+    },
+    "Serilog.Settings.Configuration/3.0.1": {
+      "sha512": "c9W5OWJgyDWIfewzzSOBUve7XKRyXTt+A8McIBKY/lydI478JnxZUTbbigAtzEIq+FecZGQ5QgA8oUBFi40odA==",
+      "type": "package",
+      "path": "serilog.settings.configuration/3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net451/Serilog.Settings.Configuration.dll",
+        "lib/net451/Serilog.Settings.Configuration.xml",
+        "lib/net461/Serilog.Settings.Configuration.dll",
+        "lib/net461/Serilog.Settings.Configuration.xml",
+        "lib/netstandard2.0/Serilog.Settings.Configuration.dll",
+        "lib/netstandard2.0/Serilog.Settings.Configuration.xml",
+        "serilog.settings.configuration.3.0.1.nupkg.sha512",
+        "serilog.settings.configuration.nuspec"
       ]
     },
     "Serilog.Sinks.Elasticsearch/6.5.0": {
@@ -13283,7 +13313,7 @@
       "Microsoft.AspNetCore.All >= 2.0.9",
       "Microsoft.NETCore.App >= 2.0.0",
       "Serilog.AspNetCore >= 2.1.1",
-      "Serilog.Extensions.Logging >= 2.0.2",
+      "Serilog.Settings.Configuration >= 3.0.1",
       "Serilog.Sinks.Elasticsearch >= 6.5.0"
     ]
   },
@@ -13294,11 +13324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Backend Board\\Season 2 David Cardenas\\LoggerElasticSearch\\LoggerElasticSearch\\LoggerElasticSearch.csproj",
+      "projectUniqueName": "C:\\LoggerWorkshop\\LoggerElasticSearch\\LoggerElasticSearch\\LoggerElasticSearch.csproj",
       "projectName": "LoggerElasticSearch",
-      "projectPath": "C:\\Backend Board\\Season 2 David Cardenas\\LoggerElasticSearch\\LoggerElasticSearch\\LoggerElasticSearch.csproj",
+      "projectPath": "C:\\LoggerWorkshop\\LoggerElasticSearch\\LoggerElasticSearch\\LoggerElasticSearch.csproj",
       "packagesPath": "C:\\Users\\dcardenas\\.nuget\\packages\\",
-      "outputPath": "C:\\Backend Board\\Season 2 David Cardenas\\LoggerElasticSearch\\LoggerElasticSearch\\obj\\",
+      "outputPath": "C:\\LoggerWorkshop\\LoggerElasticSearch\\LoggerElasticSearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13342,9 +13372,9 @@
             "target": "Package",
             "version": "[2.1.1, )"
           },
-          "Serilog.Extensions.Logging": {
+          "Serilog.Settings.Configuration": {
             "target": "Package",
-            "version": "[2.0.2, )"
+            "version": "[3.0.1, )"
           },
           "Serilog.Sinks.Elasticsearch": {
             "target": "Package",
